@@ -99,7 +99,7 @@ $(function(){
     $('#home').backstretch([
        "images/home-bg-slideshow1.jpg",
        "images/home-bg-slideshow2.jpg",
-       "images/example.jpg",
+       //"images/example.jpg",
         ],  {duration: 2000, fade: 750});
     });
   })
